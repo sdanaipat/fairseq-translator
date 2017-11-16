@@ -14,6 +14,9 @@ A quick Tensorflow implementation of Facebook FairSeq[1] for character-level neu
 
 3. ```Test [GLU].ipynb``` -- for testing and visualizing model's attentions. EN-> JP translation is generated using beam search.
 
+### Sample
+![](https://github.com/sdanaipat/fairseq-translator/blob/master/example2.jpg)
+
 ### TODOs
 - mask zero-padded elements from attention
 - proper weights init
