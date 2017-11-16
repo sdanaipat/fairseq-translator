@@ -1,4 +1,4 @@
-#FairSeq - Translator
+##FairSeq - Translator
 
 A quick Tensorflow implementation of Facebook FairSeq[1] for character-level neural machine translation (EN -> JP). Notebooks for preprocessing, training, and testing are inside ```notebooks/```
 
